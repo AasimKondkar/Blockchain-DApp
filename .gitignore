@@ -1,0 +1,8 @@
+node_modules/
+artifacts/
+cache/
+coverage/
+frontend/dist/
+frontend/.env.local
+npm-debug.log*
+.env.local
